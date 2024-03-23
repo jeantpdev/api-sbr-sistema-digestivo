@@ -1,6 +1,6 @@
-#**Importante**
+# Necesario:
 
-La conexión con la base de datos de amazon ya no se puede usar. Hay que migrar todo a otra base de datos para que pueda funcionar.
+Tener Python en la version 3.8 para correr la libreria de EXPERTA
 
 # Se usa...
 Se usa en conjunto con el siguiente repositorio [link al repositorio](https://github.com/zacksPerez43/sbr-ia)
